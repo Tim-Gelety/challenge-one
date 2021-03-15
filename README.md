@@ -32,5 +32,6 @@ WHEN I view the title element\
 <ul>
   <li> broken nav element fixed </li>
   <li> scout rule applied </li>
-  <li> notations are present in code for additional changes </li>
+  <li> consolidated CSS style rules </li>
+  <li> notations are present in code for additional changes </li> 
 </ul>
