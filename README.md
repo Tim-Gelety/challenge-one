@@ -22,5 +22,10 @@ WHEN I view the title element\
 
 <ul>  
   <li>'div' tags replaced with more descriptve tags </li>
-  <li></li>
+  <li> descriptions placed in 'alt' tags for 'section' images </li>
+  <li> heading element 'h1' through 'h4' are used </li>
+  <li> website title changed from 'website' to 'horiseon-ad-page' </li>
+</ul>
+
+
   
