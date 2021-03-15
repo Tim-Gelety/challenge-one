@@ -21,11 +21,16 @@ WHEN I view the title element\
 ## Objective Implementation
 
 <ul>  
-  <li>'div' tags replaced with more descriptve tags </li>
+  <li> 'div' tags replaced with more descriptve tags </li>
   <li> descriptions placed in 'alt' tags for 'section' images </li>
   <li> heading element 'h1' through 'h4' are used </li>
-  <li> website title changed from 'website' to 'horiseon-ad-page' </li>
+  <li> 'title' tag changed from 'website' to 'horiseon-ad-page' </li>
 </ul>
 
+## Aditional Changes
 
-  
+<ul>
+  <li> broken nav element fixed </li>
+  <li> scout rule applied </li>
+  <li> notations are present in code for additional changes </li>
+</ul>
